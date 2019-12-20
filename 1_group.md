@@ -4,13 +4,13 @@ _In this PLD we talk about diferent concepts about the most recent projects_
 
 ## Participants 🚀
 
-1187 **Angel Pedroza Cardenas**
-1217 **Manuel Mosquera**
-1270 **Javier Andrés Garzón Patarroyo**
-1264 **Michael Orlando Cocuy Garzon**
-1215 **Fabio Gomez**
-1206 **Jhoan Zamora Caicedo**
-1289 **Julian Naranjo**
+1187 **Angel Pedroza Cardenas**---
+1217 **Manuel Mosquera**---
+1270 **Javier Andrés Garzón Patarroyo**---
+1264 **Michael Orlando Cocuy Garzon**---
+1215 **Fabio Gomez**---
+1206 **Jhoan Zamora Caicedo**---
+1289 **Julian Naranjo**---
 
 ### Objectives 📋
 
